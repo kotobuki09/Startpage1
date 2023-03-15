@@ -17,6 +17,8 @@
 body {
 	background-image: url('../background/background.png');
 	background-color: gray;
+	background-repeat: none;
+	background-size: cover;
 }
 
 div .hvr-grow {
